@@ -5,7 +5,7 @@ Caros Alunos, A lista para estudo da prova está disponibilizada neste resposit�
 
 Dentro da pasta resposta existe a pasta VHDL com os códigos resposta e a pasta PROJETO COMPLETO que é a pasta com todos os arquivos do Vivado pronto para a implementação  dos exercicios 3 ao 6 que foi testada na placa basys3 e funciona perfeitamente.
 
-Na pasta implementações vocês podem fazer o upload dos arquivos VHDL(somente do VHDL) e do bitstream para que eu implemente na placa ou verifique algo erro ou tire dúvidas a respeito deles nesse caso basta comentar qual a dúvida ou erro no próprio VHDL, crie uma pasta com seu nome e faça o upload dos arquivos.
+Na pasta implementações vocês podem fazer o upload dos arquivos VHDL(somente do VHDL) e do bitstream para que eu implemente na placa ou verifique algo erro ou tire dúvidas a respeito deles nesse caso basta comentar qual a dúvida ou erro no próprio VHDL, crie o arquivo com seu nome e dentro dele no cabeçalho informe seu email.
 
 Qualquer dúvida nessa resolução ou no projeto de vocês estou a disposição para me enviarem um email: jhonathannicolas@gmail.com
 
