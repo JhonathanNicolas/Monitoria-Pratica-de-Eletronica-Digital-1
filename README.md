@@ -7,7 +7,10 @@ Dentro da pasta resposta existe a pasta VHDL com os códigos resposta e a pasta 
 
 Na pasta implementações vocês podem fazer o upload dos arquivos VHDL(somente do VHDL) e do bitstream para que eu implemente na placa ou verifique algo erro ou tire dúvidas a respeito deles nesse caso basta comentar qual a dúvida ou erro no próprio VHDL, crie o arquivo com seu nome e dentro dele no cabeçalho informe seu email.
 
-Qualquer dúvida nessa resolução ou no projeto de vocês estou a disposição para me enviarem um email: jhonathannicolas@gmail.com
+Use a pasta Duvidas para tirar dúvidas
+
+Ainda assim qualquer dúvida nessa resolução ou no projeto de vocês estou a disposição para me enviarem um email: jhonathannicolas@gmail.com
+
 
 
 Obrigado e bons estudos!
